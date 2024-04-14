@@ -1,0 +1,47 @@
+{
+    "mod": "PreyToLive-CustomTraderAvatars-v1.0.0",
+    "info": "Clean temp files in the SPT launcher settings after making any changes.",
+
+    "modEnabled": true,
+    "consoleLogs": false,
+    "traderFolderToUse": "customAvatars2",
+
+    "traderFolders": {
+        "customAvatars1": {
+            "btr": "btr",
+            "fence": "fence",
+            "jaeger": "jaeger",
+            "lightkeeper": "lightkeeper",
+            "mechanic": "mechanic",
+            "peacekeeper": "peacekeeper",
+            "prapor": "prapor",
+            "ragman": "ragman",
+            "skier": "skier",
+            "therapist": "therapist"
+        },
+        "customAvatars2": {
+            "btr": "btr",
+            "fence": "fence",
+            "jaeger": "jaeger",
+            "lightkeeper": "lightkeeper",
+            "mechanic": "mechanic",
+            "peacekeeper": "peacekeeper",
+            "prapor": "prapor",
+            "ragman": "ragman",
+            "skier": "skier",
+            "therapist": "therapist"
+        },
+        "defaultAvatars": {
+            "btr": "btr",
+            "fence": "fence",
+            "jaeger": "jaeger",
+            "lightkeeper": "lightkeeper",
+            "mechanic": "mechanic",
+            "peacekeeper": "peacekeeper",
+            "prapor": "prapor",
+            "ragman": "ragman",
+            "skier": "skier",
+            "therapist": "therapist"
+        }
+    }
+}
