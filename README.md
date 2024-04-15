@@ -2,7 +2,7 @@
 
 Developed by: [NEWBR33D](https://github.com/NEWBR33D) (aka [PreyToLive](https://hub.sp-tarkov.com/user/24548-preytolive/))
 
-[CustomTraderAvatars](https://hub.sp-tarkov.com/files/file/1002-betterspawnsplus/) is a mod that allows customization of the default traders profile pictures as well as custom traders from other mods for SPTarkov.
+CustomTraderAvatars is a mod that allows customization of the default traders profile pictures as well as custom traders from other mods for SPTarkov.
 
 #### ***If you would like to support me and my work you can donate to me [here](https://ko-fi.com/preytolive). Thank you!***
 
