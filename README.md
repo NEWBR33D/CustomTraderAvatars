@@ -1,13 +1,13 @@
-# **PreyToLive-CustomTraderAvatars v1.0.0**
+# **PreyToLive-CustomTraderAvatars v1.0.1**
 
 Developed by: [NEWBR33D](https://github.com/NEWBR33D) (aka [PreyToLive](https://hub.sp-tarkov.com/user/24548-preytolive/))
 
-CustomTraderAvatars is a mod that allows customization of the default traders profile pictures as well as custom traders from other mods for SPTarkov.
+[CustomTraderAvatars](https://github.com/NEWBR33D/CustomTraderAvatars/) is a mod that allows customization of the default traders profile pictures as well as custom traders from other mods for SPTarkov.
 
 #### ***If you would like to support me and my work you can donate to me [here](https://ko-fi.com/preytolive). Thank you!***
 
 ## **Installation Instructions:**
-1. Begin by downloading the "PreyToLive-CustomTraderAvatars-v1.0.0.zip" file from the provided link or the Github repository.
+1. Begin by downloading the "PreyToLive-CustomTraderAvatars-v1.0.1.zip" file from the provided link or the Github repository.
 2. Extract the contents of the downloaded archive. You should now have a folder named "zPreyToLive-CustomTraderAvatars" containing the mod files.
 3. Navigate to the location of your SPTarkov folder on your computer.
 4. Inside the SPTarkov folder, find the "user/mods/" directory.
@@ -34,6 +34,7 @@ CustomTraderAvatars is a mod that allows customization of the default traders pr
             "peacekeeper": "type-the-file-name-here",
             "prapor": "type-the-file-name-here",
             "ragman": "type-the-file-name-here",
+            "ref": "type-the-file-name-here",
             "skier": "type-the-file-name-here",
             "therapist": "type-the-file-name-here",
     key --> "customTrader1": "type-the-file-name-here", <-- value

@@ -7,6 +7,7 @@ export enum TraderIds {
     PEACEKEEPER = "59b91cbd86f77469aa5343cb",
     PRAPOR = "59b91ca086f77469a81232e4",
     RAGMAN = "5ac3b86a86f77461491d1ad8",
+    REF = "6617beeaa9cfa777ca915b7c",
     SKIER = "59b91cb486f77469a81232e5",
     THERAPIST = "59b91cab86f77469aa5343ca"
 }

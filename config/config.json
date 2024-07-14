@@ -1,5 +1,5 @@
 {
-    "mod": "PreyToLive-CustomTraderAvatars-v1.0.0",
+    "mod": "PreyToLive-CustomTraderAvatars-v1.0.1",
     "info": "Clean temp files in the SPT launcher settings after making any changes.",
 
     "modEnabled": true,
@@ -16,6 +16,7 @@
             "peacekeeper": "peacekeeper",
             "prapor": "prapor",
             "ragman": "ragman",
+            "ref": "ref",
             "skier": "skier",
             "therapist": "therapist"
         },
@@ -28,6 +29,7 @@
             "peacekeeper": "peacekeeper",
             "prapor": "prapor",
             "ragman": "ragman",
+            "ref": "ref",
             "skier": "skier",
             "therapist": "therapist"
         },
@@ -40,6 +42,7 @@
             "peacekeeper": "peacekeeper",
             "prapor": "prapor",
             "ragman": "ragman",
+            "ref": "ref",
             "skier": "skier",
             "therapist": "therapist"
         }
